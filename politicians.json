@@ -1,0 +1,10 @@
+{
+  "postcodes": {
+    "2000": { "fed": "Sydney", "state": "Sydney State" },
+    "4000": { "fed": "Brisbane", "state": "McConnel" }
+  },
+  "politicians": {
+    "Sydney": { "name": "The Hon. Tanya Plibersek MP", "email": "Tanya.Plibersek.MP@aph.gov.au", "level": "Federal" },
+    "McConnel": { "name": "Hon Grace Grace MP", "email": "mcconnel@parliament.qld.gov.au", "level": "State" }
+  }
+}
